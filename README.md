@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saryne
-- 👀 I’m interested in learning to code, js and python maybe?
-- 🌱 I’m currently learning basic responsive web design, yeap clean sheet.
+- 👋 Hi, I’m Zackaria S.
+- 👀 I’m interested in learning to code, currently following a front end roadmap
+- 🌱 So far : Html, css , JavaScript, getting into frameworks and libraries.
 - 💞️ I’m looking to collaborate on open sources projects once i get decent
 - 📫 How to reach me : can4t think of a reason why you'd want to.
 
